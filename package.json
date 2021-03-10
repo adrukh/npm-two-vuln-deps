@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/snyk-fixtures/npm-two-vuln-deps#readme",
   "dependencies": {
-    "gatsby": "^1.9.127"
+    "gatsby": "^3.0.0"
   }
 }
